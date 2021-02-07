@@ -20,7 +20,7 @@
 /********************************************************************************/
 
 .graphSpace {
-    -fx-background-color:  lightblue;
+    -fx-background-color:  lightyellow;
     -fx-border-color: transparent;
 }
 
@@ -90,7 +90,7 @@
     /*text*/
     -fx-text-fill: -myLightest;
      /*background*/
-    -fx-background-color: -myDarkest;
+    -fx-background-color: -myRed;
 }
 .frontier {
     /*text*/
