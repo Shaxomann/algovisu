@@ -1,5 +1,5 @@
 # algovisu
-Tree node visualiser with pseudocode
+Tree node visualiser with pseudocode using javafx 
 
 Easy to use with a notice built-in
 
